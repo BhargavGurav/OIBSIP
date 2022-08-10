@@ -19,13 +19,14 @@ body{
    padding: 30px !important;
    box-shadow: 8px 8px 8px 8px gray;
 }
-#Temperature{
+/*#Temperature{
 	padding-left: 30vh;
 	padding-right: 30vh;
-}
+}*/
 label{
 	font-size: 20px;
 }
+
 .input{
 	/*width: 300px;*/
 	font-size: 18px;
